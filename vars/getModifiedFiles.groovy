@@ -1,4 +1,5 @@
 #!/usr/bin/env groovy
+import hudson.model.*
 
 
 // returns a list of changed files
